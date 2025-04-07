@@ -2,8 +2,8 @@
   "name": "tp-4-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "type": "module",
+  "main": "src/tp-4-dai-main/index.js",
+  "type": "commonjs",
   "scripts": {
     "ej01": "node src/tp-4-dai-main/ej01.js",
     "ej02": "node src/tp-4-dai-main/ej02.js",
