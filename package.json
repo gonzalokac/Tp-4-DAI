@@ -3,9 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start":"node index.js"
+    "ej01": "node src/tp-4-dai-main/ej01.js",
+    "ej02": "node src/tp-4-dai-main/ej02.js",
+    "ej03": "node src/tp-4-dai-main/ej03.js",
+    "ej04": "node src/tp-4-dai-main/ej04.js",
+    "ej05": "node src/tp-4-dai-main/ej05.js",
+    "ej06": "node src/tp-4-dai-main/ej06.js",
+    "ej07": "node src/tp-4-dai-main/ej07.js",
+    "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "country-data": "^0.0.31"
+  }
 }
